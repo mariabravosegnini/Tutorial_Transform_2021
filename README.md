@@ -1,5 +1,4 @@
-main
-# Tutorial Transform 2021 - INSPECCION Y ANALISIS DE DATOS
+# Tutorial Transform 2021 - ANALISIS Y VISUALIZACION DE DATOS
 
 **Instructoras:**
 [Maria Cecilia Bravo](https://github.com/mariabravosegnini)<sup>1</sup>
@@ -14,7 +13,7 @@ main
 | Slack (preguntas y respuestas) | [Software Underground](https://softwareunderground.org/) channel `t21-mon-data-analysis` |
 | Sesion en vivo | https://www.youtube.com/watch?v=mCOZ51Do9uw&list=PLgLft9vxdduCESA3xAo5Ts_ziO8vZAFG1&index=4 |
 | Requisitos  | `Anaconda` |
-| Documentacion | github |
+| Documentacion | [Repositorio en Github](https://github.com/mariabravosegnini/Tutorial_Transform_2021)|
 
 
 ## ANTES DEL TUTORIAL
@@ -36,6 +35,7 @@ Los objetivos de este tutorial son:
 - Convertir de archivo Lasio a Pandas
 - Importar 2 archivos de datos separado por comas (.csv) usando Pandas
 - Realizar calculos de valores usando Pandas
+- Graficar variables usando Matplotlib y Seaborn
 
 ## Datos 
 
@@ -61,7 +61,7 @@ El nivel de este tutorial es para principiantes con algunos fundamentos de pytho
 3. Jupyter debera abrir en tu buscador de internet configurado. Empezaremos desde aca y crearemos 
    un nuevo notebook juntos. 
 
-###  SI TODO LO ANTERIOR FALLA
+###  SI TODO LO ANTERIOR NO FUNCIONA
 
 En caso que no puedas configurar correctamente, tienes la opcion de codificar usando 
 Google Colab (necesitaras una cuenta de Google).
@@ -79,19 +79,13 @@ ejemplo y finalmente tu podras trabajar en tus propios datos.
 | Time          | Activity |
 |:-------------:|:---------|
 | 17:00 - 17:20 | Introduccion |
-| 17:20 - 18:00 | Carga de datos, Inspeccion y Calculos |
+| 17:20 - 18:00 | Carga de datos, inspeccion y calculos |
 | 18:00 - 18:10 | Receso |
-| 18:10 - 18:50 | Visualizacion y Analysis |
-| 18:50 - 19:00 | Notas finales, Preguntas y Respuestas - Slack |
+| 18:10 - 18:50 | Visualizacion y analysis |
+| 18:50 - 19:00 | Notas finales, preguntas y respuestas - Slack |
 
 ## Licencia
 
 Todos los codigos y textos de este repositorio en libre: Se acepta la distrubucion y modificacion 
-bajo los terminos de la clausula BSD 3.
+bajo los terminos de la licencia Creative Commons Zero v1.0 Universal.
 
-
-
-
-# Tutorial_Transform_2021
-Tutorial Transform 2021 geothermal well - Python for beginners
-main
