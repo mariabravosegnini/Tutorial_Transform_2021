@@ -1,11 +1,11 @@
 # Tutorial Transform 2021 - ANALISIS Y VISUALIZACION DE DATOS
 
 ![SWUNG Logo](/images/SWUNG_logo.png)
+
 **Instructoras:**
 [Maria Cecilia Bravo](https://github.com/mariabravosegnini)<sup>1</sup>
 [Diana Acero-Allard](https://dianaceroallard.github.io/)<sup>1</sup>
-
-> <sup>1</sup>Geolatinas|
+<sup>1</sup>Geolatinas
 
 ![GL Logo](/images/GL_logo.jpeg)
 
@@ -42,9 +42,9 @@ Los objetivos de este tutorial son:
 
 ## Datos 
 
-- Archivo de registros electricos .LAS de un pozo con fines geotermales (58-32_main.las)
-- Tablas de datos medidos en laboratorio para los ripios del pozo con fines geotermales (58-32_TC.csv y 58-32_XRD.csv)
-Mas detalles acerca de los datos [aqui](https://gdr.openei.org/submissions/1111)
+- Archivo de registros electricos .LAS de un pozo con fines geotermales **58-32_main.las**
+- Tablas de datos medidos en laboratorio para los ripios del pozo con fines geotermales **58-32_TC.csv** y **58-32_XRD.csv**
+Mas detalles acerca de los datos [UTAH FORGE Well 58-32](https://gdr.openei.org/submissions/1111)
 
 ## Pre-requisitos
 
