@@ -1,11 +1,13 @@
 # Tutorial Transform 2021 - ANALISIS Y VISUALIZACION DE DATOS
 
+![SWUNG Logo](/images/SWUNG_logo.png)
 **Instructoras:**
 [Maria Cecilia Bravo](https://github.com/mariabravosegnini)<sup>1</sup>
 [Diana Acero-Allard](https://dianaceroallard.github.io/)<sup>1</sup>
 
-> <sup>1</sup>Geolatinas |
+> <sup>1</sup>Geolatinas|
 
+![GL Logo](/images/GL_logo.jpg)
 
 |         | Info |
 |--------:|:-----|
@@ -22,11 +24,12 @@ Asegurate de realizar los siguientes pasos **antes de la sesion tutorial el Lune
 
 1. Unete a [Software Underground Slack](https://softwareunderground.org/slack)
 2. Unete al canal `t21-mon-data-analysis`. Aqui es donde todos nos comunicamos **todas las comunicaciones son aqui**.
-3. Configura tu computador ([intrucciones abajo](#Configuracion)). Durante la sesion no tendremos tiempo 
+3. Configura tu computador ([instrucciones abajo](#Configuracion)). Durante la sesion no tendremos tiempo 
    de solucionar problemas tecnicos asi que asegurate de realizar estos pasos antes. Si necesitas ayuda 
    pregunta en el canal `t21-mon-data-analysis` en Slack.
 4. Si tienes tus propios datos tenlos listos y asegurate que se puedan cargar con Pandas. Tendras algun tiempo
    al final del tutorial para trabajar en tu propio proyecto.
+5. Si algo muy basico no es claro visita [Geolatinas Coding Group - Getting Started](https://geolatinas.github.io/)
 
 ## Acerca del Tutorial
 
@@ -41,18 +44,19 @@ Los objetivos de este tutorial son:
 
 - Archivo de registros electricos .LAS de un pozo con fines geotermales (58-32_main.las)
 - Tablas de datos medidos en laboratorio para los ripios del pozo con fines geotermales (58-32_TC.csv y 58-32_XRD.csv)
+Mas detalles acerca de los datos [aqui](https://gdr.openei.org/submissions/1111)
 
 ## Pre-requisitos
 
-El nivel de este tutorial es para principiantes con algunos fundamentos de python con uso en la plataforma Anaconda.
+El nivel de este tutorial es para principiantes con fundamentos de python con uso en la plataforma Anaconda.
 - Codificaremos usando Jupyter notebooks en la plataforma Anaconda
-- Algunos fundamentos de Python
-- Algunos fundamentos de Pandas
+- Pre-requisitos fundamentos de numpy, pandas y matplotlib
 
 
 ## Configuracion
 
-- Instalar Lasio 
+- Instalar Lasio en el terminal ejecutar **pip install lasio** para mas informacion acerca de Lasio [click aqui](https://pypi.org/project/lasio/)
+- Instalar Seaborn en el terminal ejecutar **pip install seaborn** para mas informacion acerca de Seaborn [clikc aqui](https://pypi.org/project/seaborn/)
 
 **Empezar un Jupyter notebook:**
 
