@@ -7,7 +7,7 @@
 
 > <sup>1</sup>Geolatinas|
 
-![GL Logo](/images/GL_logo.jpg)
+![GL Logo](/images/GL_logo.jpeg)
 
 |         | Info |
 |--------:|:-----|
