@@ -4,7 +4,8 @@
 
 **Instructoras:**
 [Maria Cecilia Bravo](https://github.com/mariabravosegnini)<sup>1</sup>
-[Diana Acero-Allard](https://dianaceroallard.github.io/)<sup>1</sup>
+[Diana Acero-Allard](https://dianaceroallard.github.io/)<sup>1</sup>\
+
 <sup>1</sup>Geolatinas
 
 ![GL Logo](/images/GL_logo.jpeg)
