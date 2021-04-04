@@ -50,7 +50,7 @@ Mas detalles acerca de los datos [UTAH FORGE Well 58-32](https://gdr.openei.org/
 ## Pre-requisitos
 
 El nivel de este tutorial es para principiantes con fundamentos de python con uso en la plataforma Anaconda.
-- Codificaremos usando Jupyter notebooks en la plataforma Anaconda
+- Codificaremos usando Jupyter notebooks en la plataforma Anaconda [Instalar Anaconda en Windows](https://www.youtube.com/watch?v=FdatS_NKVrM) [Instalar Anaconda en Linux](https://www.youtube.com/watch?v=3ncwbHyZeAg)
 - Pre-requisitos fundamentos de numpy, pandas y matplotlib
 
 
