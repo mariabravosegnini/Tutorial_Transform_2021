@@ -5,7 +5,7 @@
 **Instructores:**
 [Maria Cecilia Bravo](https://github.com/mariabravosegnini)<sup>1</sup>
 [Diana Acero-Allard](https://dianaceroallard.github.io/)<sup>1</sup> 
-[Daniel Coronel](https://github.com/drcoronel)<sup>1</sup> 
+con la colaboracion especial de [Daniel Coronel](https://github.com/drcoronel)
 
  <sup>1</sup>Geolatinas
 
