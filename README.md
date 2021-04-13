@@ -2,9 +2,10 @@
 
 ![SWUNG Logo](/images/SWUNG_logo.png)
 
-**Instructoras:**
+**Instructores:**
 [Maria Cecilia Bravo](https://github.com/mariabravosegnini)<sup>1</sup>
 [Diana Acero-Allard](https://dianaceroallard.github.io/)<sup>1</sup> 
+con la colaboracion especial de [Daniel Coronel](https://github.com/drcoronel)
 
  <sup>1</sup>Geolatinas
 
@@ -50,14 +51,16 @@ Mas detalles acerca de los datos [UTAH FORGE Well 58-32](https://gdr.openei.org/
 ## Pre-requisitos
 
 El nivel de este tutorial es para principiantes con fundamentos de python con uso en la plataforma Anaconda.
-- Codificaremos usando Jupyter notebooks en la plataforma Anaconda [Instalar Anaconda en Windows](https://www.youtube.com/watch?v=FdatS_NKVrM) [Instalar Anaconda en Linux](https://www.youtube.com/watch?v=3ncwbHyZeAg)
-- Pre-requisitos fundamentos de numpy, pandas y matplotlib
+- Codificaremos usando Jupyter notebooks en la plataforma Anaconda 
+	[Instalar Anaconda en Windows](https://www.youtube.com/watch?v=FdatS_NKVrM)
+	[Instalar Anaconda en Linux](https://www.youtube.com/watch?v=3ncwbHyZeAg)
+- Pre-requisitos fundamentos de Python
 
 
 ## Configuracion
 
 - Instalar Lasio en el terminal ejecutar **pip install lasio** para mas informacion acerca de Lasio [click aqui](https://pypi.org/project/lasio/)
-- Instalar Seaborn en el terminal ejecutar **pip install seaborn** para mas informacion acerca de Seaborn [clikc aqui](https://pypi.org/project/seaborn/)
+- Instalar Seaborn en el terminal ejecutar **pip install seaborn** para mas informacion acerca de Seaborn [click aqui](https://pypi.org/project/seaborn/)
 
 **Empezar un Jupyter notebook:**
 
