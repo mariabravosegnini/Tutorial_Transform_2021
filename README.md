@@ -54,8 +54,11 @@ El nivel de este tutorial es para principiantes con fundamentos de python con us
 - Codificaremos usando Jupyter notebooks en la plataforma Anaconda 
 	[Instalar Anaconda en Windows](https://www.youtube.com/watch?v=FdatS_NKVrM)
 	[Instalar Anaconda en Linux](https://www.youtube.com/watch?v=3ncwbHyZeAg)
-- Pre-requisitos fundamentos de Python
-
+    
+- Fundamentos de Python, para mas informacion [click aqui](https://www.python.org/)
+- Estar familiarizado con Numpy, para mas informacion [click aqui](https://numpy.org/)
+- Estar familiarizado con Pandas, para mas informacion [click aqui](https://pandas.pydata.org/pandas-docs/stable/)
+- Estar familiarizado con Matplotlib, para mas informacion [click aqui](https://matplotlib.org/)
 
 ## Configuracion
 
@@ -91,6 +94,18 @@ ejemplo y finalmente tu podras trabajar en tus propios datos.
 | 18:00 - 18:10 | Receso |
 | 18:10 - 18:50 | Visualizacion y analysis |
 | 18:50 - 19:00 | Notas finales, preguntas y respuestas - Slack |
+
+
+## Otros tutoriales Transform 2021 - recomendados
+
+"Well data exploration, from geothermal production to well logs" por Thomas Martin Lunes 19 Abril 20:00 UTC
+
+"Version control for scientists" por Steve Purves Jueves 22 Abril 11:00 UTC
+
+"Processing gravity data with Harmonica" por Santiago Soler, Agustina Pesce, and Andrea Balza Jueves 22 Abril 17:00 UTC
+
+"Geothermal Well Test Analysis with Python" por Katie Mclean e Irene Wallis Jueves 22 Abril 20:00 UTC
+
 
 ## Licencia
 
